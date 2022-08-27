@@ -1,0 +1,42 @@
+img{
+    float: left;
+    width: 30%;
+    height: 100%;
+   
+}
+
+h1{
+    font-family:Arial, Helvetica;
+}
+
+.contenedor{
+    border: solid #675222;
+    border-radius: 5%;
+    border-width: 10px;
+    height: 70%;
+    width: 80%;
+    margin: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    background-color: #cacbb9;
+    letter-spacing: 1.5px;
+    line-height: 40px;
+    
+}
+
+
+
+h1{
+    padding-top: 10px;
+}
+
+p, h1, h4 {
+    padding-left: 35%;
+
+}
+h4{
+    padding-top: 20px;
+    color:#7e6a4e;
+    font-size: larger;
+    
+}
